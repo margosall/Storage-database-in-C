@@ -1,0 +1,5 @@
+5 Tallinn
+1 Narva
+2 Viljandi
+3 Valga
+4 Tartu
